@@ -96,7 +96,7 @@ const List = () => {
             </section>
             <section className="flex flex-row justify-between px-4">
                 <h1 className="text-xl font-medium">Top Doctors</h1>
-                <p>View all</p>
+                <p className="text-blue-400">View all</p>
             </section>
             <section className="px-4 my-5">
                 {content}
